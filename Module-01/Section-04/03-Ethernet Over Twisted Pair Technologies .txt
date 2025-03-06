@@ -1,0 +1,150 @@
+Twisted pair Ethernet cable is the most commonly used Ethernet cable in business and home networks. 
+An internet connection to a building or home is normally delivered through a coaxial cable and/or fiber-optic cable 
+from an internet service provider (ISP). This connection is fed into a gateway modem located inside the building or home 
+(for home internet customers, this hardware is often provided by the ISP). 
+The modem then passes the internet connection through a twisted pair Ethernet cable to a router or a single computer. 
+The router uses twisted pair Ethernet cables to distribute wired network connections internally to the business or home. 
+These network cables are also called CAT cables. In addition, 
+Ethernet over twisted pair technologies can also supply telephone and television services to businesses and homes.
+----------------------------------------------
+
+Twisted pair cables:
+
+Originally, telephone and early data cables included two copper wires, one for transmitting data and one for receiving data. 
+The two wires laid parallel to one another. This configuration was affected by electromagnetic interference (EMI), 
+radio frequency interference (RFI), and crosstalk between the two copper wires. 
+One of the initial engineering steps to resolve these issues involved twisting the wire pair together, 
+which reduced some of the extra noise on the lines.
+بيقولك ي معلم انه فى بداية الأمر كانت اسلاك التليفونات والداتا بتتكون من سلكين من النحاس .. واحد بيرسل والتانى بيستقبل وكانو محطوطين مع بعض ف جاك جلد كل سلك موازى للأخر.
+ولكن التصميم ده كان بيخلى الأسلاك تتأثر بشكل كبير بالمجالات المغناطيسية والترددات الراديو واللى طبعا كان بيأثر على جودة التواصل .. لغاية ما الهندسة جت حلتلنا المشكله هذيك
+من خلال تقنية التويستد بير وفهمنا هى بتقلل النويز دى ازاى.
+----------------------------------------------
+
+Twisted pair Ethernet cables are commonly used in LANs because: 
+
+1- They offer multiple levels of protection against EMI, RFI, and crosstalk.
+2- The lower levels of interference protection provide low-cost options, 
+which are generally more accessible to home users and small businesses. 
+3- The cables are thin, light weight, and malleable enough to install and move easily.
+4- The transmission range of the cable is suitable for short distance connections inside of buildings and homes. 
+5- The cable’s frequency range is able to transmit both data and telephone/voice communications.
+----------------------------------------------
+UTP,  STP, and FTP Ethernet cables
+
+Twisted pair Ethernet cable uses four pairs of color-coded copper wires. Each colored pair, one solid and one striped, 
+are twisted together. There are multiple types of twisted pair Ethernet cables available on the market. 
+These types fall into three main categories: 
+بيقولك ي سيدى انه الايثرنت كابل بيتكون من 4 ازواج من التويستد كابل متلونين .. كل زوج فيه واحد ملون سادة و واحد مقلم. وعندنا انواع كتيره من الايثرنت بيندرجو كلهم تحت 3 كاتيجورى
+
+1- Unshielded twisted pair (UTP): The most common and least expensive type of Ethernet cable found in business and home 
+networks. UTP cables offer very basic protection against EMI, RFI, and crosstalk interference. 
+ده الأكثر استخداما والأقل سعرا فى الكابلات ودايما بيكون هو المستخدم فى البيوت والبزنس الصغيرة او اللى مش محتاجه اكتر من البيزك بروتكشن. لان ال يو تى بى بيقدم البيزك بروتكشن فقط.
+
+2- Shielded twisted pair (STP): Used in environments where electromagnetic interference (EMI), 
+radio frequency interference (RFI), and crosstalk with nearby cables have been identified as a problem 
+for network communications. An STP cable uses a braided aluminum and/or copper shielding to encase 
+the four twisted pairs underneath the outer jacket. 
+تانى نوع وهو ال اس تى بى .. وده بيستخدم فى المناطق اللى بيكون فيها ترددات عاليه او تداخل كهرومغناطيسى كبير لدرجة انه بيعمل مشكلة ف الكونكشن زى محطات الاذاعة والتلفزيون او الشركات اللى فيها 
+ماكينات ضخمه بتطلع ترددات عاليه او المطارات وابراج المراقبة وهكذا .. وده لان ال اس تى بى بيتكون كالتالى: كل زوج بيكون متغطى بورقة فويل لوحده وبعدين بنجمعم كلهم ف كمان ورقة فويا
+وكل ده بيكون متغطى بالجاكت البلاستك
+
+3- Foiled twisted pair (FTP): Also used in environments where EMI, RFI, and crosstalk are a problem. 
+An FTP cable uses a thin foil shield that wraps around the bundle of twisted pair wires underneath the outer jacket. 
+هو وسط بين ال اس تى بى واليو تى بى .. ليه ؟ لانه ي سيدى تحت الجاكت البلاستك بيكون فى طبقة فويل بتحمى كل البيرز
+فاا هو مش زى ال يو تى بى اللى مفيهوش اى بروتكشن زياده ولا زى ال اس تى بى اللى بيغطى كل زوج بورقة فويل وبعدين يغطيهم كلهم.
+وبيستخدم بقا فى بعض البزنس الصغيرة او المتوسطة اللى التداخل والترددات المغناطيسية والراديوهية عندها مش كبيرة.
+----------------------------------------------
+Straight-through cable
+
+Straight-through cables are also known as patch cables. They are the primary type of Ethernet cable used in computer networks.
+Straight-through cables normally connect computers and routers to hubs and Ethernet switches. 
+Ethernet cable can also connect servers to Ethernet switches. 
+الستريت ثرو كابل هو النوع الأساسى من كابلات الايثرنت المستخدم فى شبكات الكمبيوتر .. وهو ببساطة بيكونكت الكبيوترز والراوترز بالهاب والسويتش
+
+Straight-through cables can be identified by comparing both ends of the cable with one another.  
+The cable is a straight-through cable if the color and stripe order of the twisted pairs are in the same position
+on both ends of the cable. 
+ازاى نعرف الكابل ده ستريت ثرو ولا لا ؟ قارن طرفي الكابل ببعض لو لقيت انه ترتيب الألوان والتقليمة بتاع الأسلاك زى بعض ف الطرفين يبقى ده ستريت
+
+In a typical straight-through cable set-up, an orange-striped wire that appears in pin position 1
+should also appear at that same position on the other end. This one-to-one pattern is continued for each color
+in pin positions 2-8. 
+بيقولك بقا يسيدى عشان ت سيت اب الستريت ثرو كابل بتعمل اى ؟
+بتاخد اول سلكه اللى هى الرتقالى المخطط تحطها ف ال بن الاولى من طرف ونفس السلكه ف نفس البن من الطرف التانى وهكذا مع كل الاسلاك بنفس الباترن  لغاية البن 8
+
+Ethernet cables that use 100Base-T standards (common for home networks) do not use blue and brown cables. 
+Networks using gigabit Ethernet have the option to use blue and brown cables for Power over Ethernet (PoE).
+الشبكات اللى بتكون سرعتها 100 بيز تى مش بتستخدم الأسلاك البنى ولا الزرقا 
+لكن الشبكات الجيجابت تقدر تستخدمهم.
+
+Straight-through cable key:
+
+Computers and routers use:
+
+Pins 1 & 2 - Orange wires for sending data
+Pins 3 & 6 - Green wires for receiving data 
+
+Hubs and switches use:
+
+Pins 1 & 2 - Green wires for sending data
+Pins 3 & 6 - Orange wires for receiving data 
+----------------------------------------------
+Crossover cables:
+Used to connect two devices that use the same sending and receiving wires for data communications, in other words
+it Used to connect two similar devices directly without the need for a switch or router. 
+crossover cables can connect two switches, two hubs, or a switch to a hub, two routers, two PCs, or a router to a PC. 
+
+Crossover cables may still be in use in older network environments. 
+But now: the most new Enterprise devices have the ability to detect Ethernet connection types and select the correct wires 
+for sending and receiving data using Auto Medium Dependent Interface Crossover (Auto-MDI/MDIX) technology. 
+The Auto-MDI/MDIX ports replace the crossover cable’s function.
+بيقولك بقا ي سيدى تانى نوع معانا من الوايرز وهو الكروس أوفر .. وده كان بيستخدم فى الشبكات القديمة عشان يوصل جهازين من نفس النوع ببعض .. كمبيوتر ب كمبيوتر او راوتر براوتر وهكذا
+ولكن طريقة الكروس أوفر دلوقتى مبقتش مستخدمه ف الشبكات الحديثة وبقينا بنستخدم تقنية تسمى الأوتو م د اى / م دى اى اكس ودى عبارة عن تكنولوجى تكتشف نوع التوصيل وتشغل الأسلاك الصحيحة للتواصل
+----------------------------------------------
+
+يبقى احنا نقدر نختصر كل الهرى ده ف كلمتين: عندنا 2 مصطلح مهمين 
+اول مصطلح: 
+
+1-Wiring standadrds: وده اللى بيحدد ترتيب الألوان داخل الكابل .. واشهر طريقتين هما 
+T568A, and T568B 
+الفرق الوحيد بينهم انه فى ال 
+--> in 568A standard: 
+	wires 1,2 has colors: striped-green, green
+	wires 3,6 has colors: striped-orange, orange
+
+--> in 568B standard: 
+	wires 1,2 has colors: striped-orange, orange
+	wires 3,6 has colors: striped-green, green
+
+يبقى البرتقالى والأخضر مكانهم متبدل فى السلكين .. لكن مفيش اى فرق تقنى بينهم بلص انه ال بى هو الأكثر استخداما.
+
+تانى مصطلح:
+1-Wiring type: ده اللى بيحدد نوع التوصيل بناء على المعايير المستخدمه فى الطرفين .. واشهر نوعين : الستريت ثرو والكروس اوفر
+
+--> Straight-through: ترتيب الألوان فى الطرفين متماثل سواء الاتنين اى او الاتنين بى
+--> Crossover: ترتيب الألوان فى الطرفين مختلف طرف بى والاخر اى او العكس
+
+فى الستريت ثرو الدنيا لذيذة لما بنيجى نأرج.. التأريج ف الطرفين هيكون واحد .. هتحط البرتقالى ف 1 و 2 والأخضر ف 3 و 6 من طرف .. ومن الطرف التانى نفس الترتيب
+لكن ف الكروس اوفر انت بتستخدم ترتيب الوان مختلف ف الطرفين فاا معنى كده انك مش هتمشيها واحده قصاد وواحدة لان البرتقالى ف طرف قصاده اخضر ف الطرف التانى والعكس
+فاا هتوصل البرتقالى بالبرتقالى والاخضر بالاخضر على حسب الستاندر المستخدم اى
+
+فاا لو التوصيله كالتالى: 
+568A -------------- 568B
+
+1 s-green --- s-orange 1
+2 green   ---   orange 2
+3 s-orange     s-green 3
+4                      4
+5                      5
+6 orange         green 6
+7                      7
+8                      8
+
+فاا هتوصل ال 1 ب 3 وال 2 ب 6 وال 3 ب 1 وال  6 ب 3 عشان توصيلتك تكون مظبوطه 
+
+لازم تكون عارف انه من الثوابت:
+
+في الكابلات التقليدية 
+(Fast Ethernet - 100Mbps): البرتقالي يُستخدم للإرسال، والأخضر للاستقبال.
+لكن في جيجابت إيثرنت
+(1000Mbps) فما فوق، يتم استخدام كل الأزواج للإرسال والاستقبال معًا (Full-Duplex).
